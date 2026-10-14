@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 
-An end-to-end data analytics project in Python that cleans a deliberately messy healthcare admissions dataset, explores it, and tests whether cost and length of stay are driven by condition, age, insurer or admission type.
+An end-to-end data analytics project in Python that cleans a messy healthcare admissions dataset, explores it, and tests whether cost and length of stay are driven by condition, age, insurer or admission type.
 
 ## Project Overview
 
